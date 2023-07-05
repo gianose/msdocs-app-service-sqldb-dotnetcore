@@ -34,3 +34,7 @@ cd msdocs-app-service-sqldb-dotnetcore
 dotnet ef database update
 dotnet run
 ```
+
+```
+run github action
+```
